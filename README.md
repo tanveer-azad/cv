@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -38,7 +37,7 @@
         <td>Former College Ambassador at Silswa</td>
       </tr>
     </tbody>
-  </table>![My Photo](https://user-images.githubusercontent.com/88530022/128475532-b93c9614-314d-4d5b-9069-0e0bfcf40d2b.png)
+  </table>
 
   <br>
   <b>University</b>
@@ -139,23 +138,7 @@
       Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.
     </p>
     <hr>
-    <a href="contractme.html">
-      <h3>Contract Me</h3>
-    </a>
-</body>
-
-</html>
- 
-  <!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <title>Contract Me</title>
-</head>
-
-<body>
-  <h1>Contract Info</h1>
+    <h3>Contract Info</h3>
 
   <table cellspacing="10">
     <tr>
@@ -180,7 +163,10 @@
   <textarea name="YourMessage" rows="10" cols="30"></textarea><br>
   <input type="submit" name="">
 </form>
-
 </body>
 
 </html>
+
+
+
+
