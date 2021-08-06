@@ -1,38 +1,137 @@
-![My Photo](https://user-images.githubusercontent.com/88530022/128470988-8d06fc2a-82e0-4891-a4df-82de854133d1.png)
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/tanveer-azad/cv/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>Personal Site</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Images/My Photo.png" alt="My Photo"></td>
+      <td>
+        <h1>Tanveer Azad Robin</h1>
+        <p><em>Student of <strong><a href="https://www.titumircollege.gov.bd/">Govt. Titumir College</a></strong></em></p>
+        <p>Department of English Literature</p>
+        <p>I love to watch movie & tv series. Travelling is my hobby.</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Work and Education</h3>
+  <hr>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2016-17</td>
+        <td>Former Scouts at Bangladesh Scouts</td>
+      </tr>
+      <tr>
+        <td>2018-19</td>
+        <td>Former College Ambassador at Silswa</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <b>University</b>
+  <ul>
+    <li>English Language & Literature Studies at <a href="https://en.wikipedia.org/wiki/Government_Titumir_College">Govt. Titumir College</a></li>
+    2020-Present
+  </ul>
+  <b>College</b>
+  <ul>
+    <li>Studied at <a href="https://en.wikipedia.org/wiki/Ullapara_Science_College">Ullapara Science College</a></li>
+    School year 2019
+  </ul>
+  <b>High School</b>
+  <ul>
+    <li>Studied at <a href="https://en.wikipedia.org/wiki/Sabuj_Kanan_High_School">Sabuj Kanan High School</a></li>
+    School year 2017
+  </ul>
+  <hr>
+  <h3>Place Lived</h3>
+  <ul>
+    <li><b>Current City</b></li>
+    <p>Dhaka, Bangladesh</p>
+    <br>
+    <li><b>Moved in 2017</b></li>
+    <p>Ullapara</p>
+    <br>
+    <li><b>Home town</b></li>
+    <p>Sirajganj</p>
+  </ul>
+  <hr>
+  <h3>Basic Info</h3>
+  <ul>
+    <li><b>Gander</b></li>
+    <p>Male</p>
+    <br>
+    <li><b>BirthDay</b></li>
+    <p>1 September</p>
+    <br>
+    <li><b>Birth Year</b></li>
+    <p>2000</p>
+    <br>
+    <li><b>Languages</b></li>
+    <p>বাংলা and English language</p>
+    <br>
+    <li><b>Religious views</b></li>
+    <p>Islam</p>
+    <br>
+    <li><b>Political views</b></li>
+    <p>Non-Partisan Solidarity Union</p>
+  </ul>
+  <hr>
+  <h3>Skills</h3>
 
-### Markdown
+  <table cellspacing="10">
+    <tr>
+      <td>Web Development</td>
+      <td>⭐</td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>⭐</td>
+    </tr>
+    <tr>
+      <td>SEO</td>
+      <td>⭐</td>
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td>⭐⭐</td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Details About Me</h3>
+  <ul>
+    <li><b>Nickname</b></li>
+    <p>Robin</p>
+    <li><b>Favourite Quotes</b></li>
+    <p>Stay hungry, Stay foolish.<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      Difficulties come to your life not to destroy you, but to discover your latent potentialities. So, let difficulties know you are too difficult.
+      <br>
+      I will make you an offer you can't refuse.
+      <br>
+      Yesterday is history, tomorrow is a mystery. But, today is a gift. That's why it's called "Present"
+      <br>
+      Well, every kid has dreams. But, how many of them become able to reach their mountains. It was Ambition and determination that made a young lad's dream come true.
+      <br>
+      A country's people should not be afraid of its government. It is the government who should be afraid of the people.
+      <br>
+      Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.</p>
+  <hr>
+  <a href="contractme.html">
+    <h3>Contract Me</h3>
+  </a>
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanveer-azad/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
