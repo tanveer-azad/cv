@@ -1,3 +1,4 @@
+![My Photo](https://user-images.githubusercontent.com/88530022/128470988-8d06fc2a-82e0-4891-a4df-82de854133d1.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tanveer-azad/cv/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
