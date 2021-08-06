@@ -118,6 +118,22 @@
     </tr>
   </table>
   <hr>
+  <h3>Contract Info</h3>
+    
+    <table cellspacing="10">
+      <tr>
+        <td>Mobile :</td>
+        <td>01517091520</td>
+      </tr>
+      <tr>
+        <td>Email Address :</td>
+        <td>tanveer.a.robin@gmail.com</td>
+      <tr>
+        <td>Facebook :</td>
+        <td><a href="https://www.facebook.com/sm.tanveerobin">Tanveer Azad Robin</a></td>
+      </tr>
+    </table>
+  <hr>
   <h3>Details About Me</h3>
   <ul>
     <li><b>Nickname</b></li>
@@ -125,48 +141,19 @@
     <li><b>Favourite Quotes</b></li>
     <p>Stay hungry, Stay foolish.<br>
 
-      Difficulties come to your life not to destroy you, but to discover your latent potentialities. So, let difficulties know you are too difficult.
+      Difficulties come to your life not to destroy you, but to discover your latent potentialities. So, let difficulties know you are too               difficult.
       <br>
       I will make you an offer you can't refuse.
       <br>
       Yesterday is history, tomorrow is a mystery. But, today is a gift. That's why it's called "Present"
       <br>
-      Well, every kid has dreams. But, how many of them become able to reach their mountains. It was Ambition and determination that made a young lad's dream come true.
+      Well, every kid has dreams. But, how many of them become able to reach their mountains. It was Ambition and determination that made a young       lad's dream come true.
       <br>
       A country's people should not be afraid of its government. It is the government who should be afraid of the people.
       <br>
-      Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.
-    </p>
+      Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.</p>
     <hr>
-    <h3>Contract Info</h3>
 
-  <table cellspacing="10">
-    <tr>
-      <td>Mobile :</td>
-      <td>01517091520</td>
-    </tr>
-    <tr>
-      <td>Email Address :</td>
-      <td>tanveer.a.robin@gmail.com</td>
-    <tr>
-      <td>Facebook :</td>
-      <td><a href="https://www.facebook.com/sm.tanveerobin">Tanveer Azad Robin</a></td>
-    </tr>
-  </table>
-<hr>
-<form class="" action="mailto:tanveer.a.robin@gmail.com" method="post" enctype="text/plain">
-  <label>Your Name :</label>
-  <input type="text" name="YourName" value=""><br>
-  <label>Your Email :</label>
-  <input type="email" name="YourEmail" value=""><br>
-  <label>Your Message</label><br>
-  <textarea name="YourMessage" rows="10" cols="30"></textarea><br>
-  <input type="submit" name="">
-</form>
 </body>
 
 </html>
-
-
-
-
