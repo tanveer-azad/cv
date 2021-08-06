@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="Images/My Photo.png" alt="My Photo"></td>
+      <td><img src="https://user-images.githubusercontent.com/88530022/128474331-1191d08a-a26d-4e1f-bddd-c693fc5a1dbd.png" alt="My Photo"></td>
       <td>
         <h1>Tanveer Azad Robin</h1>
         <p><em>Student of <strong><a href="https://www.titumircollege.gov.bd/">Govt. Titumir College</a></strong></em></p>
