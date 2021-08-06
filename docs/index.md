@@ -137,9 +137,9 @@
       Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.
     </p>
     <hr>
-    <a href="contractme.html">
-      <h3>Contract Me</h3>
-    </a>
+    <h3>
+      <a href="contractme.html">Contract Me</a>
+    </h3>
 </body>
 
 </html>
