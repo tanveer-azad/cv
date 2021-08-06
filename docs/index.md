@@ -134,6 +134,4 @@
     <h3>
       <a href="contractme.html">Contract Me</a>
     </h3>
-</body>
 
-</html>
