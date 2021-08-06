@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/88530022/128474331-1191d08a-a26d-4e1f-bddd-c693fc5a1dbd.png" alt="My Photo"></td>
+      <td><img src="Images/My Photo.png" alt="My Photo"></td>
       <td>
         <h1>Tanveer Azad Robin</h1>
         <p><em>Student of <strong><a href="https://www.titumircollege.gov.bd/">Govt. Titumir College</a></strong></em></p>
@@ -89,6 +89,14 @@
     <p>Non-Partisan Solidarity Union</p>
   </ul>
   <hr>
+  <h3>Hobbies</h3>
+  <ul>
+    <li><b>Travelling</b></li>
+    <li><b>Bike Ride</b></li>
+    <li><b>Photography</b></li>
+    <li><b>Cricket</b></li>
+  </ul>
+  <hr>
   <h3>Skills</h3>
 
   <table cellspacing="10">
@@ -127,11 +135,12 @@
       <br>
       A country's people should not be afraid of its government. It is the government who should be afraid of the people.
       <br>
-      Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.</p>
-  <hr>
-  <a href="contractme.html">
-    <h3>Contract Me</h3>
-  </a>
+      Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.
+    </p>
+    <hr>
+    <a href="contractme.html">
+      <h3>Contract Me</h3>
+    </a>
 </body>
 
 </html>
